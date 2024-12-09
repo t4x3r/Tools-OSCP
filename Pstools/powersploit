@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+set -e
+
+kali-treecd "/usr/share/windows-resources/powersploit" "powersploit" 1 false
